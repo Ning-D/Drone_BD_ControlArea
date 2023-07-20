@@ -18,7 +18,7 @@ Top-view and Back-view drone videos can be downloaded from [here](https://www.dr
 
 
 ## Usage
-- First, download processed data from [here](https://www.dropbox.com/s/oov70lliawa1zgv/CA.tar.gz?dl=0)
+- The processed data can be downloaded from [here](https://www.dropbox.com/s/oov70lliawa1zgv/CA.tar.gz?dl=0)
 - Pretrained weights can be downloaded from: 
 - For training and testing, please run `python main.py`
 - For control area visualization, please run `python save.py --checkpoint_path ./epo30_lr1e-06_w0_A0.5_B0.5_G3_K0.03/model_X.pth`
