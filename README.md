@@ -6,14 +6,14 @@ Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose i
 Top-view and Back-view drone videos can be downloaded from [here](https://www.dropbox.com/scl/fo/0xsa463je2nalimvp1eb6/h?rlkey=lpq0w7l7yrtg2jomi2tzgtdbz&dl=0)
 
 ## Dataset Details
-<center>
+
 | -/-       | Top-View Camera | Back-View Camera |
 | --------- | -------- | -------- | 
 | Device    | DJI Air 2S   | DJI Air 2S   |
 | FPS       | 30           |    30        | 
 | Bounding Box     |    |    |
 | Shuttlecock      |    |    |
-</center>
+
 
 
 
