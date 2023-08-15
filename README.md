@@ -21,4 +21,4 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 - The processed data can be downloaded from [here](https://drive.google.com/file/d/1DcaLrBW0IGFKLnvDKuqXlVz0PWTNU6Pz/view?usp=drive_link)
 - Pretrained weights can be downloaded from: 
 - For training and testing, please run `python main.py`, parameters can be modified in configuration.py
-- For control area visualization, please run `python visualize.py --checkpoint_path ...
+- For control area visualization, please run `python visualize.py --checkpoint_path`
