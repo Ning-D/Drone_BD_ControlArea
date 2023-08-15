@@ -24,4 +24,4 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 - For training and testing, please run `python main.py`, parameters can be modified in the configuration.py file
 - For control area visualization, please run `python visualize.py --checkpoint_path`
  #My gif
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://drive.google.com/file/d/1KfgDC8cDpPppo5GNfTcS_eOT88Ga3ipj/view?usp=drive_link)https://drive.google.com/file/d/1KfgDC8cDpPppo5GNfTcS_eOT88Ga3ipj/view?usp=drive_link)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif)https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif)
