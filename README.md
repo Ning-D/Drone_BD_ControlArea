@@ -23,3 +23,4 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 - Pretrained weights can be downloaded from [here](https://drive.google.com/file/d/1noNMyn0G_1Oqyg-na6vuW_SyabVQtF6W/view?usp=drive_link).
 - For training and testing, please run `python main.py`, parameters can be modified in the configuration.py file
 - For control area visualization, please run `python visualize.py --checkpoint_path`
+ <img src="[URL_TO_YOUR_GIF](https://drive.google.com/file/d/1KfgDC8cDpPppo5GNfTcS_eOT88Ga3ipj/view?usp=drive_link)https://drive.google.com/file/d/1KfgDC8cDpPppo5GNfTcS_eOT88Ga3ipj/view?usp=drive_link" alt="Control area estimation in a rally"> 
