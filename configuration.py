@@ -1,0 +1,14 @@
+lr         = 1e-6
+momentum   = 0.9
+w_decay    = 0
+step_size  = 20
+gamma      = 0.001
+epo_num    = 40
+batch_size = 16
+ratio = 0.8
+ratio1 = 0.5
+ALPHA = 0.8
+BETA = 0
+GAMMA = 3
+K=0.03
+k_layer=4
