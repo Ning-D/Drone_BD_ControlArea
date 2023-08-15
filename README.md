@@ -10,8 +10,9 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 | --------- | -------- | -------- | 
 | Device    | DJI Air 2S   | DJI Air 2S   |
 | FPS       | 30           |    30        | 
-| Bounding Box     |  ✓  |  ✓  |
-| Shuttlecock (hit/drop)     |  ✓  |  ✓  |
+| Bounding Box      |  - |  -  |
+| Shuttlecock     |  -  |  -  |
+| Pose (Keypoints)    |  -  |  -  |
 
 
 
