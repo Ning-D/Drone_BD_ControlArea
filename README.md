@@ -3,7 +3,7 @@
 Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose information from top and back view drone videos."](https://doi.org/10.1007/s11042-023-16362-1) *Multimedia Tools and Applications* (2023). 
 
 <div align="center">
-  <img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Rally.gif" alt="Description of the second GIF" width="290">
+  <img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Rally.gif" alt="Description of the second GIF" width="300">
   <img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif" alt="Estimation of control area in a rally" width="400">
   
 </div>
