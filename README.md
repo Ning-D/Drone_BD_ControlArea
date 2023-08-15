@@ -12,7 +12,7 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 | FPS       | 30           |    30        | 
 | Bbox height & width     |  - |  -  |
 | Shuttlecock location    |  -  |  -  |
-| Poses (receiver team)    |  -  |  -  |
+| Poses   |  -  |  -  |
 
 
 
