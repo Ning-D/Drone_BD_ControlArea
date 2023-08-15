@@ -23,5 +23,6 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 - Pretrained weights can be downloaded from [here](https://drive.google.com/file/d/1noNMyn0G_1Oqyg-na6vuW_SyabVQtF6W/view?usp=drive_link).
 - For training and testing, please run `python main.py`, parameters can be modified in the configuration.py file
 - For control area visualization, please run `python visualize.py --checkpoint_path`
-![Estimation of control area in a rally](https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif)
+![Estimation of control area in a rally](https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif)<img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif" alt="Estimation of control area in a rally" width="300">
+
 
