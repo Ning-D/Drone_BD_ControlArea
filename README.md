@@ -25,7 +25,7 @@ Top-view and Back-view drone videos can be downloaded from [here](https://drive.
 - For control area visualization, please run `python visualize.py --checkpoint_path`
 <div align="center">
   <img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Rally.gif" alt="Description of the second GIF" width="400">
-  <img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif" alt="Estimation of control area in a rally" width="530">
+  <img src="https://github.com/Ning-D/Drone_BD_ControlArea/blob/main/visual/Estimation.gif" alt="Estimation of control area in a rally" width="560">
   
 </div>
 
