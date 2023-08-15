@@ -1,7 +1,6 @@
 # Drone_BD_ControlArea
 
-Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose information from top and back view drone videos."](https://arxiv.org/abs/2305.04247) *Multimedia Tools and Applications* (2023). [https://doi.org/10.1007/s11042-023-16362-1](https://doi.org/10.1007/s11042-023-16362-1)
-
+Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose information from top and back view drone videos."](https://doi.org/10.1007/s11042-023-16362-1) *Multimedia Tools and Applications* (2023). [https://doi.org/10.1007/s11042-023-16362-1]
 ## Drone Video Download
 Top-view and Back-view drone videos can be downloaded from [here](https://drive.google.com/drive/folders/1sIKIDLjyhccO_y6gXeaIkr_1gu1o0vYw?usp=drive_link)
 
