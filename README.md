@@ -23,7 +23,7 @@ The drone videos utilized in this study, along with their corresponding CSV file
 
 ### Complete Drone Video Collection
 Additionally, the complete set of drone videos, encompassing all rallies, is available in the `All_videos` folder:
-- [Download Complete Drone Video Collection]([https://drive.google.com/drive/folders/1sIKIDLjyhccO_y6gXeaIkr_1gu1o0vYw?usp=drive_link](https://drive.google.com/drive/folders/1TgFaTvqqi4GzoKerhBaRKyUMkDlRJ-HZ?usp=sharing) (`All_videos`)
+- [Download Complete Drone Video Collection](https://drive.google.com/drive/folders/1TgFaTvqqi4GzoKerhBaRKyUMkDlRJ-HZ?usp=sharing) (`All_videos`)
 
 
 ### Contents
