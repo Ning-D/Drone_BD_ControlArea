@@ -1,4 +1,4 @@
-# Drone_BD_ControlArea--Drone Video Dataset for Badminton Analysis
+# Drone_BD_ControlArea
 
 This repository contains a unique dataset of top-view and back-view drone videos capturing badminton matches. This dataset is ideal for projects involving sports analytics, motion tracking, and computer vision applications.
 
