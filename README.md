@@ -56,8 +56,8 @@ Notice: We have only labeled the shuttle position for hit/drop samples that are 
 | --------- | -------- | -------- | 
 | Device    | DJI Air 2S   | DJI Air 2S   |
 | FPS       | 30           |    30        | 
-| Bounding Box     |  &#10003 |  &#10003  |
-| Shuttlecock location    |  &#10003  |  &#10003  |
+| Bounding Box     |  :heavy_check_mark:  |  :heavy_check_mark:   |
+| Shuttlecock location    |  :heavy_check_mark:   |  :heavy_check_mark:   |
 | Poses (2 players)  |  -  |  -  |
 
 
