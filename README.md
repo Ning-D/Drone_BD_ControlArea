@@ -15,9 +15,16 @@ Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose i
 
 
 
-## Dataset Download
+## Drone Video Dataset Access
 
-Access the drone video dataset and corresponding CSV files via this Google Drive link: [Download Drone Video Dataset](https://drive.google.com/drive/folders/1sIKIDLjyhccO_y6gXeaIkr_1gu1o0vYw?usp=drive_link)
+### Study Videos and Corresponding CSV Files
+The drone videos utilized in this study, along with their corresponding CSV files, can be accessed via the following Google Drive link:
+- [Download Study Drone Video Dataset](https://drive.google.com/drive/folders/1sIKIDLjyhccO_y6gXeaIkr_1gu1o0vYw?usp=drive_link) (`Study_Videos` and `datacsv`)
+
+### Complete Drone Video Collection
+Additionally, the complete set of drone videos, encompassing all rallies, is available in the `All_videos` folder:
+- [Download Complete Drone Video Collection](https://drive.google.com/drive/folders/1sIKIDLjyhccO_y6gXeaIkr_1gu1o0vYw?usp=drive_link) (`All_videos`)
+
 
 ### Contents
 
