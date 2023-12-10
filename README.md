@@ -41,7 +41,7 @@ A Python script named `plot.py` is provided to overlay bounding boxes and the sh
      python plot.py
      ```
 
-Notice: We have only labeled the shuttle position for hit/drop samples that are used in this study. To obtain the shuttle position at each frame, please use the tracking algorithm or labeling tool available in [TrackNet](https://nol.cs.nctu.edu.tw:234/open-source/TrackNetv2/Track) or [TrackNetV2](https://nol.cs.nctu.edu.tw:234/open-source/TrackNetv2).
+Notice: We have only labeled the shuttle position for hit/drop samples that are used in this study. Additionally, for drop cases, the shuttle position has been labeled only when it drops in the opponent's court. To obtain the shuttle position at each frame, please use the tracking algorithm or labeling tool available in [TrackNet](https://nol.cs.nctu.edu.tw:234/open-source/TrackNetv2/Track) or [TrackNetV2](https://nol.cs.nctu.edu.tw:234/open-source/TrackNetv2).
 
 ## Dataset Details
 
