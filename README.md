@@ -1,6 +1,6 @@
 # Drone_BD_ControlArea
 
-This repository presents a novel method for estimating control area probability maps in doubles badminton, utilizing a unique dataset of top-view and back-view drone videos from badminton matches. This dataset is ideally suited for projects in sports analytics, motion tracking, and computer vision applications.
+This repository presents a novel method for estimating control area probability maps in doubles badminton, utilizing a unique dataset of top-view and back-view drone videos from badminton doubles matches. This dataset is ideally suited for projects in sports analytics, motion tracking, and computer vision applications.
 
 Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose information from top and back view drone videos."](https://doi.org/10.1007/s11042-023-16362-1) *Multimedia Tools and Applications* (2023). 
 
