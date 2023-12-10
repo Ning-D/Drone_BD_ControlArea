@@ -11,7 +11,8 @@ Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose i
 
 ## Drone Video Download
 Top-view and Back-view drone videos along with corresponding CSV files can be downloaded from [here](https://drive.google.com/drive/folders/1sIKIDLjyhccO_y6gXeaIkr_1gu1o0vYw?usp=drive_link)
-Bounding Box and shuttle position can be visualized by running `python plot.py`
+
+Bounding Box of 4 players and shuttle position can be visualized by running `python plot.py`
 
 ## Dataset Details
 
