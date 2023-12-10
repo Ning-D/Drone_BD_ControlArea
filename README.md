@@ -59,7 +59,7 @@ A Python script named `plot.py` is provided to overlay bounding boxes and the sh
 - For training and testing, please run `python main.py`, parameters can be modified in the configuration.py file
 - For control area visualization, please run
   ```bash
-  `python visualize.py --checkpoint_path`
+  python visualize.py --checkpoint_path
   ```
 ## Contributing
 
