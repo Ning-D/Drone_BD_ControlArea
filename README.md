@@ -1,5 +1,6 @@
-# Drone_BD_ControlArea
+# Drone_BD_ControlArea--Drone Video Dataset for Badminton Analysis
 
+This repository contains a unique dataset of top-view and back-view drone videos capturing badminton matches. Accompanying these videos are CSV files containing data for bounding boxes around players and the shuttlecock's position. This dataset is invaluable for projects involving sports analytics, motion tracking, and computer vision.
 Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose information from top and back view drone videos."](https://doi.org/10.1007/s11042-023-16362-1) *Multimedia Tools and Applications* (2023). 
 
 <div align="center">
@@ -9,9 +10,9 @@ Ding, Ning, et al. ["Estimation of control area in badminton doubles with pose i
 </div>
 
 
-# Drone Video Dataset for Badminton Analysis
 
-This repository contains a unique dataset of top-view and back-view drone videos capturing badminton matches. Accompanying these videos are CSV files containing data for bounding boxes around players and the shuttlecock's position. This dataset is invaluable for projects involving sports analytics, motion tracking, and computer vision.
+
+
 
 ## Dataset Download
 
