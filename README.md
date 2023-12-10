@@ -40,9 +40,7 @@ A Python script named `plot.py` is provided to overlay bounding boxes and the sh
      ```bash
      python plot.py
      ```
-   - The script processes each video, applying bounding boxes and marking the shuttle's position as per the CSV files.
-
-
+  
 ## Dataset Details
 
 | -/-       | Top-View Camera | Back-View Camera |
