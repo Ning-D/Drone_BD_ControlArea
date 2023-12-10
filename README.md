@@ -56,7 +56,11 @@ A Python script named `plot.py` is provided to overlay bounding boxes and the sh
 ## Usage
 - The processed data can be downloaded from [here](https://drive.google.com/file/d/1DcaLrBW0IGFKLnvDKuqXlVz0PWTNU6Pz/view?usp=drive_link).
 - Pretrained weights can be downloaded from [here](https://drive.google.com/file/d/1noNMyn0G_1Oqyg-na6vuW_SyabVQtF6W/view?usp=drive_link).
-- For training and testing, please run `python main.py`, parameters can be modified in the configuration.py file
+- For training and testing, parameters can be modified in the configuration.py
+  ```bash
+  python main.py
+  ```
+- 
 - For control area visualization, please run
   ```bash
   python visualize.py --checkpoint_path
